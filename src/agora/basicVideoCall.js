@@ -10,11 +10,11 @@ var remoteUsers = {};
 var volumes = {};
 // Agora client options
 var options = {
-  appid: "1641ad012e594e83ae5d2d3dcfc1581d",
+  appid: "your appid",
   channel: "genel1",
   uid: null,
   token:
-    "0061641ad012e594e83ae5d2d3dcfc1581dIACp7xND38gmW62pIuezgtakrSgCcoy5SHICowQtVxP3exbLkvgAAAAAEACOGXX2kOyaYAEAAQCQ7Jpg"
+    "your token"
 };
 
 export function getVolumes() {
